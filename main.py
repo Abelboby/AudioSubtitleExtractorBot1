@@ -4,7 +4,7 @@
 
 from pyrogram import Client
 
-#from config import Config
+from config import Config
 
 if __name__ == "__main__":
     plugins = dict(root="plugins")
